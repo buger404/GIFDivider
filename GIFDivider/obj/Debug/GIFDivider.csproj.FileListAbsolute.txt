@@ -1,0 +1,6 @@
+E:\Projects\GIFDivider\GIFDivider\bin\Debug\GIFDivider.exe.config
+E:\Projects\GIFDivider\GIFDivider\bin\Debug\GIFDivider.exe
+E:\Projects\GIFDivider\GIFDivider\bin\Debug\GIFDivider.pdb
+E:\Projects\GIFDivider\GIFDivider\obj\Debug\GIFDivider.csprojAssemblyReference.cache
+E:\Projects\GIFDivider\GIFDivider\obj\Debug\GIFDivider.exe
+E:\Projects\GIFDivider\GIFDivider\obj\Debug\GIFDivider.pdb
